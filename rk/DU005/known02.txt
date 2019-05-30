@@ -1,0 +1,11 @@
+Bij dit onderzoek is gebruik gemaakt van zowel de Twitter Ngrams Viewer als
+de Google Books Ngrams Viewer . Met behulp van de Twitter Ngrams Viewer
+heb ik onderzocht hoe anglicismen zich in de periode van 2011 tot en met 2015
+hebben ontwikkeld door te kijken hoe vaak populaire anglicismen werden getwitterd .
+Door de kwantiteit van bepaalde anglicismen in een bepaalde periode
+te onderzoeken kan een antwoord op de hoofdvraag gegeven worden . De anglicismen
+die ik hierbij gebruikt heb zijn : ' comfortzone ' , ' framen ' , ' shinen ' en
+'
+abbergasted ' , omdat dit veelgebruikte anglicismen in de Nederlandse taal zijn .
+Doordat de Twitter Ngrams Viewer alleen Nederlandse Twitter data gebruikt is
+het uit te sluiten dat deze woorden door Engelse gebruikers werden getwitterd .

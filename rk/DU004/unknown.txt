@@ -1,0 +1,10 @@
+Door de kwantiteit van bepaalde termen die typisch zijn voor Sinterklaas te ver-
+gelijken met de kwantiteit van bepaalde termen die typisch zijn voor Kerstmis ,
+kan de populariteit van Kerstmis en Sinterklaas op Twitter worden afgeleid . Bij
+dit onderzoek heb ik met behulp van de Twitter Ngrams viewer die populariteit
+onderzocht . In de periode van 2011 tot en met 2015 heb ik onderzocht hoe vaak
+er werd getwitterd over ' Sinterklaas ' tegenover ' Kerst ' , ' Sint ' tegenover ' Kerst-
+man ' en ' pepernoot ' tegenover ' rendier ' . Door te onderzoeken of er een bepaald
+patroon of verband te zien was tussen het aantal tweets hierover kon ik bepalen
+hoe de populariteit van Kerstmis tegenover die van Sinterklaas in de laatste 5
+jaar is veranderd .
